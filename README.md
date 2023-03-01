@@ -1,24 +1,18 @@
+
+<!-- 
+
+Olá, Devs!! 😄
+
+Sintam-se à vontade para dar fork e poderem usar dos recursos aqui presentes.
+
+Se eu te ajudei de alguma forma, peço gentilmente que marquem como "star" este repositório.
+isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo Henri.
+
+ -->
+
+
 ## Olá, eu sou Rômulo Henri! 😄
 
-<!--
-**henri2023/henri2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-henri2023
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img width="400em"
-
-v display="flex" justify-content="center" flex-direction="row";
-
--->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div display="inline-block">
@@ -47,3 +41,19 @@ v display="flex" justify-content="center" flex-direction="row";
   <a href="https://www.linkedin.com/in/r%C3%B4mulo-henri-437763213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:romulohenri000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+
+<!-- Texto Padrão: -->
+
+<!--
+Here are some ideas to get you started:
+henri2023
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
