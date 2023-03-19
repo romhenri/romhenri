@@ -14,26 +14,39 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div display="inline-block">
-<img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=henri2023&show_icons=true&theme=vision-friendly-dark" alt="henri2023's stats"/>
-<img width="44%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henri2023&layout=compact&theme=vision-friendly-dark" alt="henri2023's most languages"/>
+<img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=vision-friendly-dark" alt="romhenri's stats"/>
+<img width="44%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=vision-friendly-dark" alt="romhenri's most languages"/>
 </div>
 
 #### Languages:
 
 <div style="display: inline_block">
-  <img alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!-- <img alt="Ts" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img alt="HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <a href="https://github.com/romhenri/javascript" target="_blank"><img alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+
+<!-- <a href="https://github.com/romhenri/typeScript" target="_blank">
+  <img alt="Ts" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</a> -->
+
+  <a href="https://github.com/romhenri/html" target="_blank">
+  <img alt="HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+
+<a href="https://github.com/romhenri/css" target="_blank">
+  <img alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+
+<!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 <div style="display: inline_block">
 
 #### Frameworks:
 
 <div style="display: inline_block">
-  <img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img alt="Tailwind CSS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+<a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank">
+  <img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
+
+  <a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank">
+  <img alt="Tailwind CSS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
 </div>
 
 #### Social Links:
@@ -49,13 +62,13 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <!-- #### Achievements:
 
-<p align="center" width="50%"><img src="https://github-profile-trophy.vercel.app/?username=henri2023&theme=onestar" /></a> </p> -->
+<p align="center" width="50%"><img src="https://github-profile-trophy.vercel.app/?username=romhenri&theme=onestar" /></a> </p> -->
 
 <!-- Texto Padrão: -->
 
 <!--
 Here are some ideas to get you started:
-henri2023
+romhenri
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
