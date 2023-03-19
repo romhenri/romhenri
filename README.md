@@ -4,7 +4,7 @@ Olá, Devs!! 😄
 
 Sintam-se à vontade para dar fork e poderem usar dos recursos aqui presentes.
 
-Se eu te ajudei de alguma forma, peço gentilmente que marquem como "star" este repositório.
+Se eu te ajudei de alguma forma, peço gentilmente que se quiserem ajudar marquem como "star" este repositório.
 isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo Henri.
 
  -->
@@ -40,11 +40,11 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <div> 
 <!--   <a  target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-<!--   <a  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 <!--  	<a target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
  <!-- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href="https://www.linkedin.com/in/r%C3%B4mulo-henri-437763213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:romulohenri000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.instagram.com/romulo.henri1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <!-- #### Achievements:
