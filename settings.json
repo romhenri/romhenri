@@ -1,0 +1,197 @@
+{
+	"editor.wordWrap": "on",
+	"workbench.colorTheme": "Default Dark+",
+	"[css]": {
+		"editor.defaultFormatter": "aeschli.vscode-css-formatter"
+	},
+	"cSpell.language": "en, pt-br",
+	"cSpell.userWords": [
+		"Bootstraping",
+		"Bugdroid",
+		"Delinda",
+		"esbenp",
+		"facebook",
+		"Famiglia",
+		"famigliamucciniristorante",
+		"henri",
+		"instagram",
+		"linkedin",
+		"Linkedin",
+		"menudigital",
+		"Mozzini",
+		"muccini",
+		"Muccini",
+		"Phonk",
+		"pinterest",
+		"romhenri",
+		"tailwindcss",
+		"truetype",
+		"whatsapp",
+		"youtube"
+	],
+	"liveServer.settings.donotShowInfoMsg": true,
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.guides.bracketPairs": true,
+	"inlineFold.unfoldedOpacity": 1,
+	"inlineFold.maskColor": "#c29ffa",
+	"prettier.bracketSameLine": true,
+	"editor.defaultFormatter": "svipas.prettier-plus",
+	"settingsSync.ignoredExtensions": ["esbenp.prettier-vscode"],
+	"editor.formatOnPaste": false,
+	"editor.formatOnSave": true,
+	"prettier.tabWidth": 4,
+	"files.autoSave": "onFocusChange",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"editor.bracketPairColorization.enabled": true,
+	"prettier.enableDebugLogs": true,
+	"prettier.useTabs": true,
+	"workbench.colorCustomizations": {
+		"[Default Dark+]": {}
+	},
+	"bracket-pair-colorizer-2.colors": ["Gold", "Orchid", "LightSkyBlue"],
+	"bracketLens.debug": true,
+	"bracketLens.languageConfiguration": {
+		"ignoreCase": false,
+		"comments": {
+			"block": [
+				{
+					"opening": "/*",
+					"closing": "*/"
+				}
+			],
+			"line": ["//"]
+		},
+		"brackets": {
+			"symbol": [
+				{
+					"opening": "(",
+					"closing": ")",
+					"headerMode": "smart",
+					"inters": []
+				},
+				{
+					"opening": "[",
+					"closing": "]",
+					"headerMode": "smart",
+					"inters": []
+				},
+				{
+					"opening": "{",
+					"closing": "}",
+					"headerMode": "smart",
+					"inters": []
+				}
+			],
+			"word": []
+		},
+		"strings": {
+			"inline": [
+				{
+					"opening": "\"",
+					"closing": "\"",
+					"escape": ["\\\\", "\\\""]
+				},
+				{
+					"opening": "'",
+					"closing": "'",
+					"escape": ["\\\\", "\\'"]
+				}
+			],
+			"multiline": [
+				{
+					"opening": "`",
+					"closing": "`",
+					"escape": ["\\\\", "\\`"]
+				}
+			]
+		},
+		"terminators": [";", ","],
+		"ignoreSymbols": ["\\//"]
+	},
+	"editor.suggest.showStatusBar": true,
+	"editor.tabSize": 2,
+	"better-comments.tags": [
+		{
+			//! ALERT
+			"tag": "!",
+			"color": "#FF2D00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			//? QUESTION
+			"tag": "?",
+			"color": "#3498DB",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			// TRANSPARENT
+			"tag": "//",
+			"color": "#474747",
+			"strikethrough": true,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			//* WHY
+			"tag": "*",
+			"color": "#b9d8a3",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			//~ Assim
+			"tag": "~",
+			"color": "#9700c5",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			//: Assim
+			"tag": ":",
+			"color": "#fff",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "#205bdb65",
+			"bold": true,
+			"italic": false
+		},
+		{
+			// TODO
+			"tag": "todo",
+			"color": "#FF8C00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			// TODO
+			"tag": "todo:",
+			"color": "#FF8C00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		}
+	]
+}
