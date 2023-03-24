@@ -24,7 +24,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   <a href="https://github.com/romhenri/javascript" target="_blank"><img alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
 
 <!-- <a href="https://github.com/romhenri/typeScript" target="_blank">
-  <img alt="Ts" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Ts" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </a> -->
 
   <a href="https://github.com/romhenri/html" target="_blank">
@@ -35,7 +35,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 <div style="display: inline_block">
 
