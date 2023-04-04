@@ -11,9 +11,10 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 # Olá, sou Rômulo Henri!😄 
 
-<div style="margin: 0px 20px">
- Designer e estudante de Desenvolviemnto Web Front-end.
-</div>
+
+ 
+>Designer e estudante de Desenvolviemnto Web Front-end.
+
 
 <link {.dark-mode} rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
