@@ -11,7 +11,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 # Olá, sou Rômulo Henri!😄 
 
-<div {.definition}>
+<div style="margin: 0px 20px">
  Designer e estudante de Desenvolviemnto Web Front-end.
 </div>
 
@@ -63,7 +63,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
    <img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> </a>
 </div>
 
- Tools:
+ #Tools:
 
 <div style="display: inline_block">
   <a href="#">
