@@ -9,7 +9,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
  -->
 
-# Olá, sou Rômulo Henri!😄 {.dark-mode}
+# Olá, sou Rômulo Henri!😄 
 
 <div {.definition}>
  Designer e estudante de Desenvolviemnto Web Front-end.
@@ -110,7 +110,7 @@ romhenri
 - ⚡ Fun fact: ...
 -->
 
-<style>
+<!-- <style>
 div, .dark-mode {
     color: #fff !important;
     background-color: #1E1E1E;
@@ -119,4 +119,4 @@ div, .dark-mode {
 div, .definition {
   margin: 10px  0px;
 }
-</style>
+</style> -->
