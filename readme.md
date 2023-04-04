@@ -50,7 +50,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
 
- ### Frameworks:
+ ### Frameworks and Technologies:
 
 <div style="display: inline_block">
 <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank">
@@ -58,17 +58,20 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
   <a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank">
   <img alt="Tailwind CSS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
+ 
+ <a href="#">
+   <img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> </a>
 
 </div>
-
+<!--
 ### Technologies:
 
 <div style="display: inline_block">
 <a href="#">
    <img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> </a>
-</div>
+</div> >-->
 
- ### Tools:
+<!-- ### Tools:
 
 <div style="display: inline_block">
   <a href="#">
@@ -83,7 +86,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
   </a>
 
-</div>
+</div>-->
 
 ## Contact
 
