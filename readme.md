@@ -9,22 +9,25 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
  -->
 
-## Olá, eu sou Rômulo Henri! 😄
+# Olá, sou Rômulo Henri!😄 {.dark-mode}
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<div {.definition}>
+ Designer e estudante de Desenvolviemnto Web Front-end.
+</div>
 
+<link {.dark-mode} rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <a href="#">
   <div display="inline-block">
-    <img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=vision-friendly-dark" alt="romhenri's stats"/>
+    <img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=vision-friendly-dark" alt="romhenri's stats" />
     <img width="44%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=vision-friendly-dark" alt="romhenri's most languages"/>
   </div>
 </a>
 
-#### Languages:
+Languages:
 
 <div style="display: inline_block">
-  <a href="https://github.com/romhenri/javascript" target="_blank"><img alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://github.com/romhenri/javascript" target="_blank"><img alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" {.icon}></a>
 
 <!--
   <a href="https://github.com/romhenri/typeScript" target="_blank">
@@ -42,7 +45,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
 
-#### Frameworks:
+ Frameworks:
 
 <div style="display: inline_block">
 <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank">
@@ -50,17 +53,17 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
   <a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank">
   <img alt="Tailwind CSS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
-          
+
 </div>
 
-#### Technologies:
+Technologies:
 
 <div style="display: inline_block">
 <a href="#">
    <img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> </a>
 </div>
 
-#### Tools:
+ Tools:
 
 <div style="display: inline_block">
   <a href="#">
@@ -77,13 +80,13 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 </div>
 
-#### Social Links:
+ Social Links:
 
-<div> 
+<div>
 <!--   <a  target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 <!--  	<a target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
  <!-- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href="https://www.linkedin.com/in/r%C3%B4mulo-henri-437763213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/r%C3%B4mulo-henri-437763213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:romulohenri000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/romulo.henri1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
@@ -106,3 +109,14 @@ romhenri
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+div, .dark-mode {
+    color: #fff !important;
+    background-color: #1E1E1E;
+}
+
+div, .definition {
+  margin: 10px  0px;
+}
+</style>
