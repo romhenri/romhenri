@@ -9,12 +9,6 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
  -->
 
-<style>
-  body {
-    background-color: #000
-  }
-</style>
-
 ## Olá, eu sou Rômulo Henri! 😄
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
