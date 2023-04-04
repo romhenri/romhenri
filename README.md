@@ -49,7 +49,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   <img alt="Tailwind CSS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
  
   <a href="#">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> </a>
+   <img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> </a>
           
 </div>
 
