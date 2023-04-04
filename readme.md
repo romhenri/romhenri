@@ -24,7 +24,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   </div>
 </a>
 
-Languages:
+## Languages:
 
 <div style="display: inline_block">
   <a href="https://github.com/romhenri/javascript" target="_blank"><img alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" {.icon}></a>
@@ -45,7 +45,7 @@ Languages:
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
 
- Frameworks:
+ ## Frameworks:
 
 <div style="display: inline_block">
 <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank">
@@ -56,7 +56,7 @@ Languages:
 
 </div>
 
-Technologies:
+## Technologies:
 
 <div style="display: inline_block">
 <a href="#">
@@ -80,7 +80,7 @@ Technologies:
 
 </div>
 
- Social Links:
+ ## Social Links:
 
 <div>
 <!--   <a  target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
