@@ -19,17 +19,17 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <a href="#">
 <div display="inline-block">
-    <img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=nord&hide_border=true" alt="romhenri's stats" />
-    <img width="44%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=nord&hide_border=true" alt="romhenri's most languages">
+    <img width="51.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&hide=issues" alt="romhenri's stats" />
+    <img width="40%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=github_dark&hide_border=false" alt="romhenri's most languages">
 </div>
 </a>
 
-<a href="#">
+<!-- <a href="#">
 <div display="inline-block">
-    <img width="43.8%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=romhenri&theme=nord&hide_border=true" alt="romhenri's stats" />
-    <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=romhenri&repo=menu&theme=nord&hide_border=true" alt="romhenri's most languages">
+    <img width="43.8%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=romhenri&theme=github_dark&hide_border=true" alt="romhenri's stats" />
+    <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=romhenri&repo=menu&theme=github_dark&hide_border=true" alt="romhenri's most languages">
 </div>
-</a>
+</a> -->
 
 <!-- )](https://github.com/anuraghazra/github-readme-stats"/> width="360px"-->
 
