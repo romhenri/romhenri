@@ -18,15 +18,24 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <a href="#">
-  <div display="inline-block">
-    <img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=vision-friendly-dark" alt="romhenri's stats" />
-    <img width="44%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=vision-friendly-dark" alt="romhenri's most languages"/>
-  </div>
+<div display="inline-block">
+    <img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=nord&hide_border=true" alt="romhenri's stats" />
+    <img width="44%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=nord&hide_border=true" alt="romhenri's most languages">
+</div>
 </a>
+
+<a href="#">
+<div display="inline-block">
+    <img width="43.8%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=romhenri&theme=nord&hide_border=true" alt="romhenri's stats" />
+    <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=romhenri&repo=menu&theme=nord&hide_border=true" alt="romhenri's most languages">
+</div>
+</a>
+
+<!-- )](https://github.com/anuraghazra/github-readme-stats"/> width="360px"-->
 
 ## Skills
 
-> Principais linguagens, frameworks e tecnologias que uso em projetos. Todas logos são clicáveis e direcionam para o respectivo repositório.
+> Principais linguagens, frameworks e tecnologias que uso em projetos.
 
 ### Languages:
 
