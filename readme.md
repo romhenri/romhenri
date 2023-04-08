@@ -26,8 +26,8 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <!-- <a href="#">
 <div display="inline-block">
-    <img width="43.8%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=romhenri&theme=github_dark&hide_border=true" alt="romhenri's stats" />
-    <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=romhenri&repo=menu&theme=github_dark&hide_border=true" alt="romhenri's most languages">
+    <img width="46.5%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=romhenri&theme=github_dark&hide_border=false" alt="romhenri's stats" />
+    <img width="51.6%" height="110%" src="https://github-readme-stats.vercel.app/api/pin/?username=romhenri&repo=romhenri&theme=github_dark&hide_border=false" alt="romhenri's most languages">
 </div>
 </a> -->
 
@@ -39,7 +39,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 ### Languages:
 
-<div display="inline_block">
+<div display="inline_block" style="border: 1px solid #fff; border-radius: 5px">
   <a href="https://github.com/romhenri/javascript" target="_blank">
     <img alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
@@ -51,20 +51,21 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   <a href="https://github.com/romhenri/css" target="_blank">
     <img alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-
 </div>
 
 ### Frameworks and Technologies:
 
-<div style="display: inline_block">
-<a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank">
+<div display="inline_block" style="border: 1px solid #fff; border-radius: 5px">
+  <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank">
   <img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
 
   <a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank">
   <img alt="Tailwind CSS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
  
- <a href="#">
-   <img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> </a>
+  <a href="#">
+   <img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  </a>
+</div>
 
 ## Contact
 
@@ -72,6 +73,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   <a href="https://www.linkedin.com/in/r%C3%B4mulo-henri-437763213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:romulohenri000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/romulo.henri1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://account.xbox.com/pt-br/profile?gamertag=Onike14&activetab=main:followings&refresh=1&csrf=Qk6Q_nzAgbIzyLd1k_Cd5mhWJsk3vc-_wSrDb6hju6xv-eFY09b_ciPa04jV_TcRlIr2sFs1acfCkIOo5M8MLf_yT_E1&wa=wsignin1.0" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
 </div>
 
 <!--====================================================-->
