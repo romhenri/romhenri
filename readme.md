@@ -18,10 +18,10 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <a href="#">
-<div display="inline-block">
-    <img width="55.4%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&hide=issues" alt="romhenri's stats" />
-    <img width="43.2%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=github_dark&hide_border=false" alt="romhenri's most languages">
-</div>
+  <div display="inline-block">
+    <img width="58.8%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&hide=issues" alt="romhenri's stats" />
+    <img width="39.2%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=github_dark&hide_border=false" alt="romhenri's most languages">
+  </div>
 </a>
 
 <!-- <a href="#">
@@ -31,7 +31,9 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 </div>
 </a> -->
 
-<!-- )](https://github.com/anuraghazra/github-readme-stats"/> width="360px"-->
+<!-- )](https://github.com/anuraghazra/github-readme-stats"/> width="360px"
+
+style="border: 1px solid #fff; border-radius: 5px"-->
 
 ## Skills
 
@@ -39,7 +41,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 ### Languages:
 
-<div display="inline_block" style="border: 1px solid #fff; border-radius: 5px">
+<div display="inline_block" >
   <a href="https://github.com/romhenri/javascript" target="_blank">
     <img alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
@@ -55,7 +57,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 ### Frameworks and Technologies:
 
-<div display="inline_block" style="border: 1px solid #fff; border-radius: 5px">
+<div display="inline_block">
   <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank">
   <img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
 
