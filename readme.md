@@ -51,8 +51,10 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   </a>
 
   <a href="https://github.com/romhenri/python" target="_blank">
-    <img alt="Python" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="Python" height="64" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
+          
+  
 </div>
 
 ### Frameworks and Technologies:
