@@ -51,7 +51,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   </a>
 
   <a href="https://github.com/romhenri/python" target="_blank">
-    <img align="center" aling="center "alt="Python" height="60" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" aling="center "alt="Python" height="62" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
           
   
@@ -76,6 +76,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <div>
   <a href="https://www.linkedin.com/in/r%C3%B4mulo-henri-437763213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:romulohenri000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://pt.stackoverflow.com/users/320153/r%c3%b4mulo-henri" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/romulo.henri1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://account.xbox.com/pt-br/profile?gamertag=Onike14&activetab=main:followings&refresh=1&csrf=Qk6Q_nzAgbIzyLd1k_Cd5mhWJsk3vc-_wSrDb6hju6xv-eFY09b_ciPa04jV_TcRlIr2sFs1acfCkIOo5M8MLf_yT_E1&wa=wsignin1.0" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
 </div>
