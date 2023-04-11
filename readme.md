@@ -20,7 +20,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <a href="#">
   <div display="inline-block">
     <img width="58.8%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&hide=issues" alt="romhenri's stats" />
-    <img width="39.2%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=github_dark&hide_border=false" alt="romhenri's most languages">
+    <img width="39.2%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=github_dark&hide_border=false" alt="romhenri's most used languages">
   </div>
 </a>
 
@@ -30,10 +30,6 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
     <img width="51.6%" height="110%" src="https://github-readme-stats.vercel.app/api/pin/?username=romhenri&repo=romhenri&theme=github_dark&hide_border=false" alt="romhenri's most languages">
 </div>
 </a> -->
-
-<!-- )](https://github.com/anuraghazra/github-readme-stats"/> width="360px"
-
-style="border: 1px solid #fff; border-radius: 5px"-->
 
 ## Skills
 
@@ -52,6 +48,10 @@ style="border: 1px solid #fff; border-radius: 5px"-->
 
   <a href="https://github.com/romhenri/css" target="_blank">
     <img alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+
+  <a href="https://github.com/romhenri/python" target="_blank">
+    <img alt="Python" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
 </div>
 
@@ -101,7 +101,7 @@ romhenri
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <!-- <style>
 div, .dark-mode {
@@ -120,7 +120,7 @@ div, .definition {
 
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> -->
 
-  <!--   <img align="center" alt="Python" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!--   
 
   <img align="center" alt="Csharp" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
