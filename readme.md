@@ -39,19 +39,19 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <div display="inline_block" >
   <a href="https://github.com/romhenri/javascript" target="_blank">
-    <img alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
 
   <a href="https://github.com/romhenri/html" target="_blank">
-    <img alt="HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
 
   <a href="https://github.com/romhenri/css" target="_blank">
-    <img alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
 
   <a href="https://github.com/romhenri/python" target="_blank">
-    <img alt="Python" height="64" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" aling="center "alt="Python" height="60" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
           
   
