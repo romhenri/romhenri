@@ -20,7 +20,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <a href="#">
   <div display="inline-block">
     <img width="58.8%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&hide=issues" alt="romhenri's stats" />
-    <img width="39.2%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=github_dark&hide_border=false" alt="romhenri's most used languages">
+    <img width="39.2%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=github_dark&hide_border=false&langs_count=6&hide=scss" alt="romhenri's most used languages">
   </div>
 </a>
 
