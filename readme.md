@@ -4,12 +4,12 @@ Olá, Devs!! 😄
 
 Sintam-se à vontade para dar fork e poderem usar dos recursos aqui presentes.
 
-Se eu te ajudei de alguma forma, peço gentilmente que se quiserem ajudar marquem como "star" este repositório.
+Se eu te ajudei de alguma forma, peço gentilmente que marquem como "star" este repositório.
 isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo Henri.
 
  -->
 
-# Olá, sou Rômulo Henri!😄
+# Prazer, Rômulo Henri!😄
 
 > Designer e estudante de Desenvolvimento Web Front-end.
 
@@ -38,38 +38,39 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 ### Languages:
 
 <div display="inline_block" >
-  <a href="https://github.com/romhenri/javascript" target="_blank">
-    <img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
+<a href="https://github.com/romhenri/javascript" target="_blank" ><img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+<!-- <a href="https://github.com/romhenri/javascript" target="_blank" ><img align="center" alt="TypeScript" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a> -->
+<a href="https://github.com/romhenri/html" target="_blank"><img align="center" alt="HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+<a href="https://github.com/romhenri/css" target="_blank"><img align="center" alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<!-- <a href="https://github.com/romhenri/javascript" target="_blank"><img align="center" alt="NodeJS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> -->
+<a href="https://github.com/romhenri/python" target="_blank">
+<img align="center" alt="Python" height="62" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 
-  <a href="https://github.com/romhenri/html" target="_blank">
-    <img align="center" alt="HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-
-  <a href="https://github.com/romhenri/css" target="_blank">
-    <img align="center" alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
-
-  <a href="https://github.com/romhenri/python" target="_blank">
-    <img align="center" aling="center "alt="Python" height="62" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </a>
-          
-  
 </div>
 
-### Frameworks and Technologies:
+### Frameworks, Libs and Technologies:
+
+<div display="inline_block">
+  <!-- <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="React" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> -->
+  <!-- <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Redux" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a> -->
+  <!-- <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"> <img alt="React" height="54" width="52" src="electron.png" /></a> -->
+
+<a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
+<a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
+<a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank"><img alt="Tailwind CSS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
+<a href="#"><img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</a>
+
+</div>
+
+<!-- ### Softwares:
 
 <div display="inline_block">
   <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank">
-  <img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
-
-  <a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank">
-  <img alt="Tailwind CSS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
- 
-  <a href="#">
-   <img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  </a>
-</div>
+  <img alt="React" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+  <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Redux" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Webpack" height="52" width="52" src="unity.png"/></a>
+  <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/></a> -->
 
 ## Contact
 
@@ -104,51 +105,3 @@ romhenri
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<!-- <style>
-div, .dark-mode {
-    color: #fff !important;
-    background-color: #1E1E1E;
-}
-
-div, .definition {
-  margin: 10px  0px;
-}
-</style> -->
-
-<!-- <a href="https://github.com/romhenri/typeScript" target="_blank">
-  <img alt="Ts" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> -->
-
-  <!--   
-
-  <img align="center" alt="Csharp" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
-
-<!--
-### Technologies:
-
-<div style="display: inline_block">
-<a href="#">
-   <img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> </a>
-</div> -->
-
-<!-- ### Tools:
-
-<div style="display: inline_block">
-  <a href="#">
-    <img alt="VS Code" height="50" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </a>
-
-  <a href="#">
-    <i class="devicon-github-original" style="color: #fff; font-size: 60px"></i>
-  </a>
-
-  <a href="#">
-
-  </a>
-
-</div>-->
