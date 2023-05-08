@@ -9,7 +9,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
  -->
 
-# Prazer, Rômulo Henri!😄
+# Prazer, Rômulo Henri!
 
 > Designer e estudante de Desenvolvimento Web Front-end.
 
