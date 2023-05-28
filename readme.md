@@ -9,9 +9,9 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
  -->
 
-# Prazer, Rômulo Henri!
+# Rômulo Henri!
 
-> Designer e estudante de Desenvolvimento Web Front-end.
+> Designer, Developer Front-end and Computer Science Student.
 
 ## Stats
 
@@ -34,7 +34,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 ## Skills
 
-> Principais linguagens, frameworks e tecnologias que uso em projetos.
+> Main languages, frameworks and technologies that i use in projects.
 
 ### Languages:
 
