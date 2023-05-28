@@ -9,7 +9,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
  -->
 
-# Rômulo Henri!
+# Rômulo Henri 😄
 
 > Designer, Developer Front-end and Computer Science Student.
 
@@ -57,7 +57,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   <!-- <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"> <img alt="React" height="54" width="52" src="electron.png" /></a> -->
 
 <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
-<a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
+<a href="#" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
 <a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank"><img alt="Tailwind CSS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
 <a href="#"><img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </a>
@@ -80,7 +80,6 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   <a href = "mailto:romulohenri000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://pt.stackoverflow.com/users/320153/r%c3%b4mulo-henri" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/romulo.henri1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://account.xbox.com/pt-br/profile?gamertag=Onike14&activetab=main:followings&refresh=1&csrf=Qk6Q_nzAgbIzyLd1k_Cd5mhWJsk3vc-_wSrDb6hju6xv-eFY09b_ciPa04jV_TcRlIr2sFs1acfCkIOo5M8MLf_yT_E1&wa=wsignin1.0" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
 </div>
 
 <!--====================================================-->
