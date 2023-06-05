@@ -52,12 +52,11 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 ### Frameworks, Libs and Technologies:
 
 <div display="inline_block">
-  <!-- <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="React" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> -->
-  <!-- <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Redux" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a> -->
-  <!-- <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"> <img alt="React" height="54" width="52" src="electron.png" /></a> -->
-
-<a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
+<a href="#" target="_blank"><img alt="React.js" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+<a href="#" target="_blank"><img alt="Vite.js" height="54" width="72" src="vitejs-svgrepo-com.svg"/></a>
 <a href="#" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
+<a href="#" target="_blank"><img alt="ESLint" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" /></a>
+<a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
 <a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank"><img alt="Tailwind CSS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
 <a href="#"><img alt="Sass" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </a>
@@ -71,7 +70,11 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
   <img alt="React" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
   <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Redux" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
   <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Webpack" height="52" width="52" src="unity.png"/></a>
-  <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/></a> -->
+  <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/></a>
+
+
+  <!-- <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Redux" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a> -->
+  <!-- <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"> <img alt="React" height="54" width="52" src="electron.png" /></a> -->
 
 ## Contact
 
