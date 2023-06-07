@@ -39,21 +39,22 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 ### Languages:
 
 <div display="inline_block" >
-<a href="https://github.com/romhenri/javascript" target="_blank" ><img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+<a href="https://github.com/romhenri/javascript" target="_blank" alt="JavaScript"><img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
 <!-- <a href="https://github.com/romhenri/javascript" target="_blank" ><img align="center" alt="TypeScript" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a> -->
 <a href="https://github.com/romhenri/html" target="_blank"><img align="center" alt="HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href="https://github.com/romhenri/css" target="_blank"><img align="center" alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-<!-- <a href="https://github.com/romhenri/javascript" target="_blank"><img align="center" alt="NodeJS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> -->
 <a href="https://github.com/romhenri/python" target="_blank">
 <img align="center" alt="Python" height="62" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+<!-- <a href="https://github.com/romhenri/python" target="_blank">
+<img align="center" alt="C" height="62" width="72"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a> -->
 
 </div>
 
 ### Frameworks, Libs and Technologies:
 
 <div display="inline_block">
-<a href="#" target="_blank"><img alt="React.js" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
-<a href="#" target="_blank"><img alt="Vite.js" height="54" width="72" src="vitejs-svgrepo-com.svg"/></a>
+<a href="https://github.com/romhenri/react" target="_blank"><img alt="React.js" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+<a href="#" target="_blank"><img alt="Vite.js" height="54" width="72" src="icons/vitejs-svgrepo-com.svg"/></a>
 <a href="#" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
 <a href="#" target="_blank"><img alt="ESLint" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" /></a>
 <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
@@ -62,6 +63,8 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 </a>
 
 </div>
+
+<!-- <a href="https://github.com/romhenri/javascript" target="_blank"><img align="center" alt="NodeJS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> -->
 
 <!-- ### Softwares:
 
