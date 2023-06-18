@@ -19,8 +19,8 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <a href="#">
   <div display="inline-block">
-    <img width="58.8%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&hide=issues&rank_icon=github" alt="romhenri's stats" />
-    <img width="39.2%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=github_dark&hide_border=false&langs_count=6&hide=scss&size_weight=0.5&count_weight=0.5" alt="romhenri's most used languages">
+    <img width="58.8%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github" alt="romhenri's stats" />
+    <img width="38.8%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=github_dark&hide_border=false&langs_count=8&hide=&size_weight=0.5&count_weight=0.5" alt="romhenri's most used languages">
   </div>
 </a>
 
@@ -44,7 +44,9 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <a href="https://github.com/romhenri/html" target="_blank"><img align="center" alt="HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href="https://github.com/romhenri/css" target="_blank"><img align="center" alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 <a href="https://github.com/romhenri/python" target="_blank">
-<img align="center" alt="Python" height="62" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+<img align="center" alt="Python" height="62" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+<a href="https://github.com/romhenri/GDScript" target="_blank">
+<img align="center" alt="GDScript" height="52" width="70" src="icons/godot.svg"></a>
 <!-- <a href="https://github.com/romhenri/python" target="_blank">
 <img align="center" alt="C" height="62" width="72"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a> -->
 
@@ -54,7 +56,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <div display="inline_block">
 <a href="https://github.com/romhenri/react" target="_blank"><img alt="React.js" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
-<a href="#" target="_blank"><img alt="Vite.js" height="54" width="72" src="icons/vitejs-svgrepo-com.svg"/></a>
+<a href="#" target="_blank"><img alt="Vite.js" height="54" width="72" src="icons/vitejs.svg"/></a>
 <a href="#" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
 <a href="#" target="_blank"><img alt="ESLint" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" /></a>
 <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
