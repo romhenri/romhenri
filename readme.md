@@ -19,10 +19,15 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <a href="#">
   <div display="inline-block">
-    <img width="58.8%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github" alt="romhenri's stats" />
-    <img width="38.8%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=github_dark&hide_border=false&langs_count=8&hide=&size_weight=0.5&count_weight=0.5" alt="romhenri's most used languages">
+    <img width="496px" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github" alt="romhenri's stats" /> 
+    <!-- <img width="38.8%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romhenri&layout=compact&theme=github_dark&hide_border=false&langs_count=8&hide=&size_weight=0.5&count_weight=0.5" alt="romhenri's most used languages"> -->
   </div>
+  
 </a>
+
+[![Romhenri's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide=ini,xml)](https://github.com/anuraghazra/github-readme-stats)
+
+> Stats of last 20 days...
 
 <!-- <a href="#">
 <div display="inline-block">
