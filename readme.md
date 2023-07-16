@@ -19,8 +19,8 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <a href="#">
   <div display="inline-block" width="100%">
-    <img width="49.9%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github" alt="romhenri's stats" />
-   <img width="49.3%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide=ini,xml&hide_title=true" alt="romhenri's stats">
+    <img width="46.8%" height="100%" src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github" alt="romhenri's stats" />
+   <img width="52.5%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide=ini,xml,TypeScript&hide_title=true" alt="romhenri's stats">
   </div>
 </a>
 
@@ -30,7 +30,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <!-- <img width="99.5%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide=ini,xml&hide_title=true" alt="romhenri's stats" /> -->
 
-> Hours stats of last 20 days...
+> Hours stats since June 2023.
 
 <!-- <a href="#">
 <div display="inline-block">
@@ -55,7 +55,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <img align="center" alt="Python" height="62" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <a href="https://github.com/romhenri/GDScript" target="_blank">
 <img align="center" alt="GDScript" height="52" width="70" src="icons/godot.svg"></a>
-<a href="https://github.com/romhenri/python" target="_blank">
+<a href="https://github.com/romhenri/C" target="_blank">
 <img align="center" alt="C" height="54" width="72"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
 
 </div>
