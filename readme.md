@@ -19,7 +19,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <a href="#">
   <img width="48.5%"  src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github" alt="romhenri's stats" />
   <!-- <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=romhenri&theme=github_dark&hide_border=false" alt="romhenri's stats" /> -->
-  <img width="47.7%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide_title=true&hide=ini,tsConfig,git,rpmspec,ezhil,sql,text,xml,other,Git%20Config,ActionScript%203" alt="romhenri's stats">
+  <img width="47.7%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide_title=true&hide=ini,tsConfig,git,rpmspec,ezhil,sql,text,xml,other,json,Git%20Config,ActionScript%203" alt="romhenri's stats">
 </a>
 
 <!-- [![Romhenri's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide=ini,xml)](https://github.com/anuraghazra/github-readme-stats) -->
