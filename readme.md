@@ -55,9 +55,10 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 ### Frameworks, Libs and Technologies:
 
 <div display="inline_block">
-<a href="https://github.com/romhenri/react" target="_blank"><img alt="React.js" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
-<a href="#" target="_blank"><img alt="Vite.js" height="54" width="72" src="icons/vitejs.svg"/></a>
-<a href="#" target="_blank"><img alt="Electron" height="58" width="50" src="./icons/electron.png" /></a>
+<a href="https://github.com/romhenri/react" target="_blank"><img alt="React.js" height="54" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+<a href="#" target="_blank"><img alt="Vite.js" height="54" width="58" src="icons/vitejs.svg"/></a>
+<a href="#" target="_blank"><img alt="Next.js" height="54" width="54" src="icons/next.png"/></a>
+<a href="#" target="_blank"><img alt="Electron" height="58" width="52" src="./icons/electron.png" /></a>
 <a href="#" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
 <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Bootstrap" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
 <a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank"><img alt="Tailwind CSS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
