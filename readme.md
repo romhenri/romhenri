@@ -17,9 +17,9 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <a href="#">
-  <img width="48.5%"  src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github" alt="romhenri's stats" />
+  <img width="49.8%"  src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github" alt="romhenri's stats" />
   <!-- <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=romhenri&theme=github_dark&hide_border=false" alt="romhenri's stats" /> -->
-  <img width="47.7%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide_title=true&hide=ini,tsConfig,git,markdown,rpmspec,ezhil,sql,text,json,GDScript3,xml,other,Git%20Config,ActionScript%203" alt="romhenri's stats">
+  <img width="48.9%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide_title=true&hide=ini,tsConfig,git,markdown,rpmspec,ezhil,sql,text,json,GDScript3,xml,bash,prisma,other,Git%20Config,ActionScript%203" alt="romhenri's stats">
 </a>
 
 <!-- [![Romhenri's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide=ini,xml)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -31,7 +31,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 ## Skills
 
-> The main languages, frameworks and technologies that I use in projects.
+> The primary languages, frameworks, and techs that I utilize in my projects.
 
 ### Languages:
 
@@ -55,10 +55,10 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <a href="https://github.com/romhenri/react" target="_blank"><img alt="React.js" height="54" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
 <a href="#" target="_blank"><img alt="Vite.js" height="54" width="58" src="icons/vitejs.svg"/></a>
 <a href="#" target="_blank"><img alt="Next.js" height="54" width="54" src="icons/next.png"/></a>
-<a href="#" target="_blank"><img alt="Electron" height="58" width="52" src="./icons/electron.png" /></a>
-<a href="#" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
+<a href="#" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/></a>
+<a href="#" target="_blank"><img alt="Electron" height="58" width="52" src="./icons/electron.png"/></a>
 <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Bootstrap" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
-<a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank"><img alt="Tailwind CSS" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
+<a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank"><img alt="Tailwind CSS" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></a>
 <a href="#"><img alt="Sass" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </a>
 
