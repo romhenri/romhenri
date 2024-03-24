@@ -17,13 +17,10 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <a href="#">
-  <img width="49.8%"  src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github" alt="romhenri's stats" />
+  <img width="49.8%"  src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&show=reviews,prs_merged" alt="romhenri's stats" />
   <!-- <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=romhenri&theme=github_dark&hide_border=false" alt="romhenri's stats" /> -->
-  <img width="48.9%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide_title=true&hide=ini,tsConfig,git,markdown,rpmspec,ezhil,sql,text,json,GDScript3,xml,bash,prisma,makefile,vbscript,other,Git%20Config,ActionScript%203" alt="romhenri's stats">
+  <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide_title=true&hide=ini,tsConfig,git,rpmspec,ezhil,sql,text,json,,xml,bash,prisma,other,Image+%28svg%29,Git%20Config,ActionScript%203&" alt="romhenri's stats">
 </a>
-
-<!-- [![Romhenri's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide=ini,xml)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- <img width="99.5%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide=ini,xml&hide_title=true" alt="romhenri's stats" /> -->
 
 <a href="#">
 
@@ -37,7 +34,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 <div display="inline_block" >
 <a href="https://github.com/romhenri/javascript" target="_blank" alt="JavaScript"><img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-<a href="https://github.com/romhenri/javascript" target="_blank" ><img align="center" alt="TypeScript" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+<a href="#" target="_blank" ><img align="center" alt="TypeScript" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 <a href="https://github.com/romhenri/html" target="_blank"><img align="center" alt="HTML" height="54" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href="https://github.com/romhenri/css" target="_blank"><img align="center" alt="CSS" height="54" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 <a href="https://github.com/romhenri/python" target="_blank">
@@ -46,7 +43,6 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <img align="center" alt="C" height="54" width="62"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
 <img align="center"alt="GDScript" height="52" width="62" src="icons/godot.svg"></a>
 <a href="https://github.com/romhenri/C" target="_blank">
-
 </div>
 
 ### Frameworks, Libs and Technologies:
@@ -61,9 +57,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank"><img alt="Tailwind CSS" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></a>
 <a href="#"><img alt="Sass" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </a>
-
 </div>
-<!-- <a href="https://github.com/romhenri/javascript" target="_blank"><img align="center" alt="NodeJS" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> -->
 
 ## Contact
 
