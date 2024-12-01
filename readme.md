@@ -38,6 +38,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 <img align="center" alt="Python" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <a href="https://github.com/romhenri/GDScript" target="_blank">
 <img align="center" alt="C" height="54" width="62"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
+<img align="center" alt="Java" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/></a>
 <img align="center"alt="GDScript" height="52" width="62" src="icons/godot.svg"></a>
 <a href="https://github.com/romhenri/C" target="_blank">
 </div>
