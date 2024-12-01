@@ -1,8 +1,6 @@
 <!--
 
-Olá, Devs!! 😄
-
-Sintam-se à vontade para dar fork e poderem usar dos recursos aqui presentes.
+Olá, Devs!! 😄.
 
 Se eu te ajudei de alguma forma, peço gentilmente que marquem como "star" este repositório.
 isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo Henri.
@@ -11,7 +9,13 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 
 # Rômulo Henri 😄
 
-> Designer, Front-end Dev, Game Dev and Computer Science Student.
+💼 `Full Stack Developer`;
+
+🎓 Bachelor's Degree in `Computer Science`;
+
+🔭 Enthusiast `GameDev` for Hobby.
+
+
 ## Stats
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
