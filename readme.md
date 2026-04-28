@@ -33,34 +33,30 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 ## Skills
 ### Languages:
 
-<div display="inline_block" >
-<a href="https://github.com/romhenri/javascript" target="_blank" alt="JavaScript"><img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-<a href="#" target="_blank" ><img align="center" alt="TypeScript" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
-<a href="https://github.com/romhenri/html" target="_blank"><img align="center" alt="HTML" height="54" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-<a href="https://github.com/romhenri/css" target="_blank"><img align="center" alt="CSS" height="54" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-<a href="https://github.com/romhenri/python" target="_blank">
-<img align="center" alt="Python" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-<a href="https://github.com/romhenri/GDScript" target="_blank">
-<img align="center" alt="C" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
-<img align="center" alt="CPP" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a>
-<img align="center" alt="Java" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/></a>
-<img align="center"alt="GDScript" height="52" width="62" src="icons/godot.svg"></a>
-<a href="https://github.com/romhenri/C" target="_blank">
-</div>
+<p align="left">
+  <a href="https://github.com/romhenri/javascript" target="_blank"><img alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="#" target="_blank"><img alt="TypeScript" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
+  <a href="https://github.com/romhenri/html" target="_blank"><img alt="HTML" height="54" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://github.com/romhenri/css" target="_blank"><img alt="CSS" height="54" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://github.com/romhenri/python" target="_blank"><img alt="Python" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+  <a href="https://github.com/romhenri/C" target="_blank"><img alt="C" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
+  <a href="https://github.com/romhenri/C" target="_blank"><img alt="CPP" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"></a>
+  <a href="https://github.com/romhenri/java" target="_blank"><img alt="Java" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></a>
+  <a href="https://github.com/romhenri/GDScript" target="_blank"><img alt="GDScript" height="52" width="62" src="icons/godot.svg"></a>
+</p>
 
 ### Frameworks, Libs and Technologies:
 
-<div display="inline_block">
-<a href="https://github.com/romhenri/react" target="_blank"><img alt="React.js" height="54" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
-<a href="#" target="_blank"><img alt="Vite.js" height="54" width="58" src="icons/vitejs.svg"/></a>
-<a href="#" target="_blank"><img alt="Next.js" height="54" width="54" src="icons/next.png"/></a>
-<a href="#" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/></a>
-<a href="#" target="_blank"><img alt="Electron" height="58" width="52" src="./icons/electron.png"/></a>
-<a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Bootstrap" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
-<a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank"><img alt="Tailwind CSS" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></a>
-<a href="#"><img alt="Sass" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-</a>
-</div>
+<p align="left">
+  <a href="https://github.com/romhenri/react" target="_blank"><img alt="React.js" height="54" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
+  <a href="#" target="_blank"><img alt="Vite.js" height="54" width="58" src="icons/vitejs.svg"></a>
+  <a href="#" target="_blank"><img alt="Next.js" height="54" width="54" src="icons/next.png"></a>
+  <a href="#" target="_blank"><img alt="Webpack" height="52" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"></a>
+  <a href="#" target="_blank"><img alt="Electron" height="58" width="52" src="./icons/electron.png"></a>
+  <a href="https://github.com/romhenri/css/tree/main/bootstrap" target="_blank"><img alt="Bootstrap" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
+  <a href="https://github.com/romhenri/css/tree/main/tailwindcss" target="_blank"><img alt="Tailwind CSS" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"></a>
+  <a href="#"><img alt="Sass" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
+</p>
 
 ## Contact
 
