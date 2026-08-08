@@ -1,30 +1,21 @@
-<!--
-
-Olá, Devs!! 😄.
-
-Se eu te ajudei de alguma forma, peço gentilmente que marquem como "star" este repositório.
-isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo Henri.
-
- -->
-
 # Rômulo Henri 😄
 
-💼 `Full Stack Developer`;
+💼 `Software/AI Engineer`;
 
-🎓 Bachelor's Degree in `Computer Science`;
+🎓 Bachelor's Degree in `Computer Science` with `ML Research`;
 
 🔭 Enthusiast `GameDev` for Hobby.
 
-
+<!-- 
 ## Stats
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <a href="#">
   <img width="49.8%"  src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="romhenri's stats" />
-  <!-- <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=romhenri&theme=github_dark&hide_border=false" alt="romhenri's stats" /> -->
+  <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=romhenri&theme=github_dark&hide_border=false" alt="romhenri's stats" />
   <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide_title=true&hide=scss,json,ini,tsConfig,git,rpmspec,ezhil,sql,text,xml,bash,css,html,csv,prisma,toml,other,Image+%28svg%29,Java%20Properties,Git%20Config,GDScript3,ActionScript%203,yaml,markdown,class,properties,textmate,gitignore%20file,idea_module,VBScript,glsl,Unity3D%20Asset,Gradle,mdx,ampl" alt="romhenri's stats">
-</a>
+</a> -->
 
 <a href="#">
 
@@ -46,14 +37,11 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 ### Engineering n DevOps
 
 <p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=ffffff">
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff">
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff">
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=ffffff">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=ffffff">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
   <img alt="Coolify" src="https://img.shields.io/badge/Coolify-8C52FF?style=for-the-badge&logo=coolify&logoColor=ffffff">
@@ -63,6 +51,7 @@ isso ajuda demais e me incentiva a produzir mais conteúdo, com carinho, Rômulo
 ### Data n ML
 
 <p align="left">
+   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff">
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=ffffff">
